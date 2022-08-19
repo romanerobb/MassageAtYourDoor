@@ -71,17 +71,17 @@ P {
 }
 
 .icon {
-    color: #ef8172;
+    color: #000;
     margin-bottom: 1rem;
 }
 
 .icon:hover {
-    color: #ff4c68;
+    color: #ff0026;
 }
 
 #testimonials {
     text-align: center;
-    background-color: #ef8172;
+    background-color: #000;
     color: #fff;
 }
 
@@ -92,7 +92,7 @@ P {
 }
 
 #press {
-    background-color: #ef8172;
+    background-color: #000;
     text-align: center;
     padding-bottom: 3%;
 }
