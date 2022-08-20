@@ -165,3 +165,12 @@ P {
         position: static;
     }
 }
+
+.card-header {
+    background-color: #000;
+}
+
+.card-header-time {
+    color: #fff;
+    font-size: 3rem;
+}
