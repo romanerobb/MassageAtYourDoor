@@ -99,6 +99,12 @@ P {
     margin: 20px;
 }
 
+.ceo {
+    width: 100%;
+    border-radius: 10%;
+    margin: 20px;
+}
+
 #press {
     background-color: #000;
     text-align: center;
