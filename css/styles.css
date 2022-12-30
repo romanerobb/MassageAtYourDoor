@@ -18,7 +18,7 @@ h2 {
     font-weight: 900;
     font-size: 2rem;
     line-height: 1.5;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 
 h3 {
@@ -94,7 +94,7 @@ P {
 }
 
 .testimonial-image {
-    width: 30%;
+    width: 90%;
     border-radius: 100%;
     margin: 20px;
 }
