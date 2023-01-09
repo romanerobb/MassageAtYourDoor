@@ -21,6 +21,14 @@ h2 {
     color: rgb(0, 0, 0);
 }
 
+.companymission {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 2rem;
+    line-height: 1.5;
+    color: rgb(255, 255, 255);
+}
+
 h3 {
     font-family: "Montserrat";
     font-weight: 900;
